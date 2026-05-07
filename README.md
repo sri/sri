@@ -1,5 +1,3 @@
-# Sri
-
 I build software, explore ideas, and ship useful things.
 
 ## Here
@@ -7,7 +5,3 @@ I build software, explore ideas, and ship useful things.
 - Projects I'm working on
 - Things I'm learning
 - Notes worth sharing
-
-## Elsewhere
-
-- GitHub: [@sri](https://github.com/sri)
