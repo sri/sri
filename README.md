@@ -1,5 +1,5 @@
 I build software, explore ideas, and ship useful things. 
-Some of these apps are my family/kid. And some of them get used everyday.
+Some of these apps are for my family/kid. And some of them get used everyday.
 
 ## Recent projects
 
