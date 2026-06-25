@@ -12,3 +12,4 @@ Some of these apps are for my family/kid. And some of them get used everyday.
 - List of all the AI personalities: https://whotheai.com/
 - Glist - how I do shopping: https://sri.github.io/glist/#shopping
 - [sri/yt_highlights](https://github.com/sri/yt_highlights) - how I gather hightlights of games on YouTube: https://github.com/sri/yt_highlights
+- [sri/cal](https://github.com/sri/cal) - a simple year calendar with various operations on dates and date ranges
